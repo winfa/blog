@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "--- title: Blogging Like a Hacker lang: en-US ---",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-winfa:winfa/blog.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
